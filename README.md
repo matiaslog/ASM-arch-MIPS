@@ -18,6 +18,6 @@ Este repositório contém códigos, exemplos e exercícios desenvolvidos em Asse
 ## 🧑‍🎓 Como Usar  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/mips-arch.git
-   cd mips-arch
+   git clone https://github.com/matiaslog/ASM-arch-MIPS.git
+
 2. Escolha o código desejado e abra-o no simulador de MIPS (MARS ou QtSPIM).
